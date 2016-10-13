@@ -1,5 +1,6 @@
-# python_SU-ANK-ZAMANA-DAKIKALARI-EKLEYEN-PROGRAM
-ŞU ANKİ ZAMANA DAKIKALARI EKLEYEN PROGRAM
+# BUTUN SORULARA DIKKAT ETMEK GEREKENLER
+
+ŞU ANKİ ZAMANA DAKIKALARI EKLEYEN PROGRAM İÇİN
 -------------------------------------------------------------------------------------
 BIRAZ UZUN BIR ŞEKİRDE YAZDIM AMA MANTIKLI ÇÜNKÜ KENDİMİZE SORMAK GEREKEN ÇOK ŞEY VAR
 --------------------------------------------------------------------------------------
