@@ -1,10 +1,10 @@
 # BUTUN SORULARA DIKKAT ETMEK GEREKENLER
 
-ŞU ANKİ ZAMANA DAKIKALARI EKLEYEN PROGRAM İÇİN
+
 -------------------------------------------------------------------------------------
 BIRAZ UZUN BIR ŞEKİRDE YAZDIM AMA MANTIKLI ÇÜNKÜ KENDİMİZE SORMAK GEREKEN ÇOK ŞEY VAR
 --------------------------------------------------------------------------------------
-#-MESELA 
+#-MESELA (ŞU ANKİ ZAMANA DAKIKALARI EKLEYEN PROGRAM İÇİN)
   #1).BİR SAATTE KAÇ DAKIKA VAR ?
   --------------------------------------------------------------------------------------
   #2).60 DAKIKADAN DAHA KAÇ SAAT OLACAK ?
@@ -15,3 +15,12 @@ BIRAZ UZUN BIR ŞEKİRDE YAZDIM AMA MANTIKLI ÇÜNKÜ KENDİMİZE SORMAK GEREKEN
   --------------------------------------------------------------------------------------
   #5).VE BENZERLER
 --------------------------------------------------------------------------------------
+
+
+--------------------------------------------------------------------------------------
+#-MESELA (AYKİ EV SATISTAN ELDE PARA BÖLÜNMESİ PROGRAM  İÇİN)
+--------------------------------------------------------------------------------------
+#YAPMADIM AMA OLMASI GEREKIYOR
+  #1). INSTEAD OF INTERGER IN ADET YOU MAY PUT STRING OR NEGATIVE ADET OR MAAŞ SO WE MUST AUTHENICATE IT BEFORE etc
+  ---------------------------------------------------------------------------------------------------------
+  
